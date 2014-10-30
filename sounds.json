@@ -1,0 +1,17 @@
+{
+    "sounds": [
+        {"key": "q", "sound": "sounds/psycore-buzzinkick.mp3"},
+        {"key": "w", "sound": "sounds/psycore-kick-hardcore-dark.mp3"},
+        {"key": "e", "sound": "sounds/psycore-distorted-hit.mp3"},
+        {"key": "r", "sound": "sounds/psycore-kick-mutilated.mp3"},
+        {"key": "t", "sound": "sounds/psycore-filtered-hit.mp3"},
+        {"key": "y", "sound": "sounds/psycore-kick-snare.mp3"},
+        {"key": "u", "sound": "sounds/psycore-kick-buzzy.mp3"},
+        {"key": "i", "sound": "sounds/psycore-snare.mp3"},
+
+        {"key": "c", "sound": "sounds/piano1.mp3", "pause": 1, "loops": -1},
+        {"key": "v", "sound": "sounds/piano2.mp3", "pause": 1, "loops": -1},
+        {"key": "b", "sound": "sounds/piano3.mp3", "pause": 1, "loops": -1},
+        {"key": "n", "sound": "sounds/piano4.mp3", "pause": 1, "loops": -1}
+    ]
+}

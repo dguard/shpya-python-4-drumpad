@@ -1,0 +1,5 @@
+swmixer
+numpy
+pymad
+pyaudio
+pyxhook
