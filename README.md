@@ -1,3 +1,8 @@
+REPORT
+===
+https://docs.google.com/document/d/1720Pzuj6aKyQEH82sBNusjJWbl_mpqsTjxEmqiv6gcs/edit?usp=sharing
+
+
 INSTALLATION
 ==
 
@@ -12,7 +17,7 @@ INSTALLATION
 * Run it using **python2**
 
 
-Play
+PLAYING
 ==
 
 * Use keys **c, v, b, n** to play melodies
